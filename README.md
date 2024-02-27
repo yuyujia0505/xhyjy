@@ -13,4 +13,4 @@
     <P>你好尉同学 这是小贾做的第一个网站！我喜欢你！</P>
 </body>
 </html>
-![yjy and jxb]()
+yjy and jxb
